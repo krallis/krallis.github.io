@@ -1,3 +1,131 @@
 metadata:
-  last_updated: ""
-papers: {}
+  last_updated: '2026-07-31'
+papers:
+  p4gOFhUAAAAJ:0EnyYjriUFMC:
+    citations: 6
+    title: Mycelium-based elm digital twin implemented in fpga
+    year: '2024'
+  p4gOFhUAAAAJ:2osOgNQ5qMEC:
+    citations: 5
+    title: Implementation of cellular automata using graphene nanoribbons with magnetic contacts
+    year: '2020'
+  p4gOFhUAAAAJ:3fE2CSJIrl8C:
+    citations: 0
+    title: Design and Implementation of Cellular Automata Computing Architectures
+    year: '2025'
+  p4gOFhUAAAAJ:4DMP91E08xMC:
+    citations: 0
+    title: Graphene monolayer treated with UV irradiation for large area Graphene field-effect transistors by electron beam lithography
+    year: '2026'
+  p4gOFhUAAAAJ:9ZlFYXVOiuMC:
+    citations: 0
+    title: Lightweight CNN Architectures for Edge-Based Post-Harvest Quality Control in Organic Tomatoes
+    year: '2025'
+  p4gOFhUAAAAJ:9yKSN-GCB0IC:
+    citations: 33
+    title: Electronic properties of graphene nanoribbons with defects
+    year: '2021'
+  p4gOFhUAAAAJ:IjCSPb-OGe4C:
+    citations: 12
+    title: Unconventional memristive nanodevices
+    year: '2023'
+  p4gOFhUAAAAJ:LkGwnXOMwfcC:
+    citations: 2
+    title: Novel materials and methods for fabricating memristors for use in RF applications
+    year: '2023'
+  p4gOFhUAAAAJ:M3ejUd6NZC8C:
+    citations: 0
+    title: Closed-Loop CBRAM Crossbar System Toward Hardware Acceleration of Quantum Algorithms
+    year: '2025'
+  p4gOFhUAAAAJ:MXK_kJrjxJIC:
+    citations: 11
+    title: Hardware-level interfaces for hybrid quantum-classical computing systems
+    year: '2025'
+  p4gOFhUAAAAJ:QIV2ME_5wuYC:
+    citations: 0
+    title: GPU-Accelerated Reaction-Diffusion Modelling for Optimal Nutrient-Driven Root Biomass Growth
+    year: '2025'
+  p4gOFhUAAAAJ:Se3iqnhoufwC:
+    citations: 2
+    title: Novel nanoelectronic circuits and systems
+    year: '2024'
+  p4gOFhUAAAAJ:ULOm3_A8WrAC:
+    citations: 2
+    title: RRAM-based hardware implementation of P systems
+    year: '2025'
+  p4gOFhUAAAAJ:UeHWp8X0CEIC:
+    citations: 15
+    title: Unconventional computing with memristive nanocircuits
+    year: '2023'
+  p4gOFhUAAAAJ:WF5omc3nYNoC:
+    citations: 5
+    title: A tcad model for silicon nitride based memristive devices
+    year: '2023'
+  p4gOFhUAAAAJ:Wp0gIr-vW9MC:
+    citations: 0
+    title: Scalable Quantum Reservoir Computing over Distributed Quantum Architectures
+    year: '2026'
+  p4gOFhUAAAAJ:YOwf2qJgpHMC:
+    citations: 1
+    title: 'Recent Advances in Precision Viticulture: A Review'
+    year: '2025'
+  p4gOFhUAAAAJ:YsMSGLbcyi4C:
+    citations: 4
+    title: Modeling of memristor-based RF switches
+    year: '2023'
+  p4gOFhUAAAAJ:Zph67rFs4hoC:
+    citations: 4
+    title: A comprehensive strategy for tomato cultivation utilizing precision agriculture techniques
+    year: '2024'
+  p4gOFhUAAAAJ:_FxGoFyzp5QC:
+    citations: 14
+    title: A reprogrammable graphene nanoribbon-based logic gate
+    year: '2023'
+  p4gOFhUAAAAJ:_kc_bZDykSQC:
+    citations: 14
+    title: 'Interfacing quantum computing systems with high-performance computing systems: an overview'
+    year: '2025'
+  p4gOFhUAAAAJ:aqlVkmm33-oC:
+    citations: 0
+    title: 'Graphene for Computing: Devices to Architectures'
+    year: '2025'
+  p4gOFhUAAAAJ:d1gkVwhDpl0C:
+    citations: 10
+    title: Multi-valued logic circuits on graphene quantum point contact devices
+    year: '2018'
+  p4gOFhUAAAAJ:eQOLeE2rZwMC:
+    citations: 4
+    title: Case study of a differential single-pole double-throw rf switch using memristors
+    year: '2023'
+  p4gOFhUAAAAJ:hqOjcs7Dif8C:
+    citations: 1
+    title: Quaternary MIN logic gate with ballistic graphene devices
+    year: '2024'
+  p4gOFhUAAAAJ:kNdYIx-mwKoC:
+    citations: 3
+    title: A holistic approach to grapevine cultivation with precision viticulture
+    year: '2024'
+  p4gOFhUAAAAJ:qjMakFHDy7sC:
+    citations: 4
+    title: A novel graphene nanoribbon XOR gate design
+    year: '2022'
+  p4gOFhUAAAAJ:qxL8FJ1GzNcC:
+    citations: 0
+    title: 'WaCPro: An Open-Source Application for Waveform and Crossbar Programming in Nanotechnology Research'
+    year: '2025'
+  p4gOFhUAAAAJ:u-x6o8ySG0sC:
+    citations: 2
+    title: Effect of lattice defects on the transport properties of graphene nanoribbon
+    year: '2019'
+  p4gOFhUAAAAJ:u5HHmVD_uO8C:
+    citations: 10
+    title: Conductance parametric analysis of graphene nanoribbons with magnetic contacts
+    year: '2020'
+  p4gOFhUAAAAJ:ufrVoPGSRksC:
+    citations: 6
+    title: Novel circuit design methodology with graphene nanoribbon based devices
+    year: '2023'
+  p4gOFhUAAAAJ:zYLM7Y9cAGgC:
+    citations: 2
+    title: Current characteristics of defective gnr nanoelectronic devices
+    year: '2022'
