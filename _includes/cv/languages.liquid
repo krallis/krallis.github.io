@@ -1,0 +1,55 @@
+{% comment %}
+  Local override of al_folio_cv's default languages.liquid (proficiency bar instead of plain text).
+  Schema per entry: name, summary (description text), level (optional, 0-100, bar width).
+{% endcomment %}
+
+<div class="card-text font-weight-light languages-block">
+  {% for entry in entries %}
+    <div class="language-item">
+      <div class="language-row">
+        <span class="language-name">{{ entry.name }}</span>
+        <span class="language-summary">{{ entry.summary }}</span>
+      </div>
+      {% if entry.level %}
+        <div class="language-bar-track">
+          <div class="language-bar-fill" style="width: {{ entry.level }}%;"></div>
+        </div>
+      {% endif %}
+    </div>
+  {% endfor %}
+</div>
+
+<style>
+  .languages-block {
+    display: flex;
+    flex-direction: column;
+    gap: 0.9rem;
+  }
+  .language-row {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    gap: 0.75rem;
+    margin-bottom: 0.3rem;
+    flex-wrap: wrap;
+  }
+  .language-name {
+    font-weight: 600;
+  }
+  .language-summary {
+    font-size: 0.85rem;
+    color: var(--global-text-color-light, #767676);
+    text-align: right;
+  }
+  .language-bar-track {
+    height: 6px;
+    border-radius: 999px;
+    background: color-mix(in srgb, var(--global-theme-color) 15%, transparent);
+    overflow: hidden;
+  }
+  .language-bar-fill {
+    height: 100%;
+    border-radius: 999px;
+    background: var(--global-theme-color);
+  }
+</style>

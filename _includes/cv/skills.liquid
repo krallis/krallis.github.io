@@ -1,0 +1,63 @@
+{% comment %}
+  Local override of al_folio_cv's default skills.liquid (tag/pill rendering instead of comma list).
+  Schema per entry: name, level (optional), keywords (array).
+{% endcomment %}
+
+<div class="card-text font-weight-light skills-block">
+  {% assign prev_name = "" %}
+  {% for entry in entries %}
+    {% if entry.name != prev_name %}
+      {% unless forloop.first %}</div>{% endunless %}
+      <div class="skill-group">
+      <div class="skill-group-title">{{ entry.name }}</div>
+    {% endif %}
+    <div class="skill-level-row">
+      {% if entry.level %}<span class="skill-level-label">{{ entry.level }}</span>{% endif %}
+      <span class="skill-tags">
+        {% for keyword in entry.keywords %}<span class="skill-tag">{{ keyword }}</span>{% endfor %}
+      </span>
+    </div>
+    {% assign prev_name = entry.name %}
+    {% if forloop.last %}</div>{% endif %}
+  {% endfor %}
+</div>
+
+<style>
+  .skills-block {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+  }
+  .skill-group-title {
+    font-weight: 600;
+    margin-bottom: 0.35rem;
+  }
+  .skill-level-row {
+    display: flex;
+    align-items: center;
+    gap: 0.6rem;
+    margin-bottom: 0.35rem;
+    flex-wrap: wrap;
+  }
+  .skill-level-label {
+    font-size: 0.72rem;
+    text-transform: uppercase;
+    letter-spacing: 0.04em;
+    color: var(--global-text-color-light, #767676);
+    min-width: 4.5rem;
+  }
+  .skill-tags {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.35rem;
+  }
+  .skill-tag {
+    display: inline-block;
+    padding: 0.15rem 0.65rem;
+    border-radius: 999px;
+    font-size: 0.8rem;
+    background: var(--global-theme-color);
+    color: #fff;
+    opacity: 0.85;
+  }
+</style>

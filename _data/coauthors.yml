@@ -1,0 +1,6 @@
+# Maps bibtex author keys to alternate name spellings / profile URLs,
+# used by jekyll-scholar to link co-author names on the publications page.
+# Example:
+# "lastname":
+#   - firstname: ["Firstname", "F."]
+#     url: https://example.com

@@ -1,0 +1,149 @@
+cv:
+  name: "Konstantinos Rallis"
+  label: "Post Doc. Researcher"
+  email: "krallis@ee.duth.gr"
+  location: "Xanthi, Greece"
+  image: ""
+  summary: "Post-doc researcher in Electrical & Computer Engineering with a background spanning nanoelectronic device modeling and circuit design, machine learning and quantum machine learning. Currently investigating QML applications at DUTH and NCSR \"Demokritos\", building on a decade of research in graphene-based nanoelectronics."
+
+  social_networks:
+    - network: GitHub
+      username: "krallis"
+    - network: LinkedIn
+      username: "konstantinos-rallis"
+
+  sections:
+    Education:
+      - institution: "Democritus University of Thrace & Polytechnic University of Catalonia (Barcelona)"
+        location: "Xanthi, Greece"
+        url: ""
+        area: "Electrical & Computer Engineering — Novel Nanoelectronic Circuits and Systems"
+        studyType: "Ph.D."
+        start_date: "2018-07"
+        end_date: "2024-05"
+        score: "Cum Laude"
+        courses: ""
+        highlights: []
+
+      - institution: "Democritus University of Thrace"
+        location: "Xanthi, Greece"
+        url: ""
+        area: "Electronics and Information Technology Systems"
+        studyType: "Diploma in Electrical & Computer Engineering"
+        start_date: "2013-10"
+        end_date: "2018-07"
+        score: "9.01 / 10"
+        courses: ""
+        highlights:
+          - "Graduated with First-Class Honours, top 1% of class"
+          - "300 ECTS (65 subjects + Diploma Thesis), Integrated Master, ISCED 7"
+          - "Diploma Thesis: \"Design and development of computational circuits using Graphene\""
+
+    Experience:
+      - company: "Research and Innovation Staff"
+        position: "Researcher on NOUS Project"
+        location: "Xanthi, Greece"
+        start_date: "2024-06"
+        end_date: "Present"
+        summary: "Design of an interface between HPC systems and Quantum Computers"
+        highlights: []
+
+      - company: "Research and Innovation Staff"
+        position: "Researcher on DigiAgriFood Project"
+        location: "Xanthi, Greece"
+        start_date: "2025-02"
+        end_date: "2025-12"
+        summary: "Unifying and interconnecting the meteorological stations of DUTH, and managing and processing their data through a common platform"
+        highlights: []
+
+      - company: "Research and Innovation Staff"
+        position: "Researcher on 3D-TOPOS Project"
+        location: "Xanthi, Greece"
+        start_date: "2023-01"
+        end_date: "2023-11"
+        summary: "Design and simulation of memristive RF switch circuit"
+        highlights: []
+
+      - company: "Research and Innovation Staff"
+        position: "Researcher on \"Nanoelectronic and Quantum Graphene Circuits\" Project"
+        location: "Xanthi, Greece"
+        start_date: "2020-03"
+        end_date: "2021-06"
+        summary: "Design and simulation of Graphene circuits with magnetic contacts"
+        highlights: []
+
+      - company: "European Commission H2020 MSCA Research and Innovation Staff Exchange Program (RISE)"
+        position: "Researcher on NANOxCOMP Project"
+        location: "Purdue, Indiana, US"
+        start_date: "2019-09"
+        end_date: "2019-11"
+        summary: "Synthesis and Performance Optimization of a Switching Nano-Crossbar Computer"
+        highlights: []
+
+      - company: "DUTH Electrical and Computer Engineering Department"
+        position: "Teaching Assistant"
+        location: "Xanthi, Greece"
+        start_date: "2018-09"
+        end_date: "2020-10"
+        summary: ""
+        highlights:
+          - "Microprocessors"
+          - "Design of Embedded Systems"
+          - "Synthesis and Analysis of Complex Computing Systems"
+          - "Analog Circuits"
+
+      #- company: "DUTH Electrical and Computer Engineering Department"
+      #  position: "PhD Student of Electrical and Computer Engineering"
+      #  location: "Xanthi, Greece"
+      #  start_date: "2018-07"
+      #  end_date: "2024-05"
+      #  summary: ""
+     #   highlights:
+     #     - "5 publications in Scientific Journals"
+      #    - "12 publications/presentations at Scientific Conferences"
+       #   - "Reviewer for several Scientific Conferences"
+       #   - "Member of the organizing committee of 2 Scientific Conferences"
+
+    Skills:
+      - name: "Device & Circuit Modeling/Simulation"
+        level: "Experienced"
+        keywords: ["MATLAB", "LTspice", "Virtuoso"]
+
+      - name: "Machine Learning & Quantum Machine Learning"
+        level: "Experienced"
+        keywords: ["Python", "PyTorch"]
+      - name: "Machine Learning & Quantum Machine Learning"
+        level: "Familiar"
+        keywords: ["Keras", "Qiskit"]
+
+      - name: "Full-Stack Development"
+        level: "Experienced"
+        keywords: ["Flask", "Node.js", "Vite", "Tailwind CSS", "Git", "Linux servers"]
+      - name: "Full-Stack Development"
+        level: "Familiar"
+        keywords: ["PHP", "HTML", "CSS", "SQL"]
+
+      - name: "Embedded Systems & Digital Design"
+        level: "Experienced"
+        keywords: ["C (ARM, code optimization)", "Arduino IDE"]
+      - name: "Embedded Systems & Digital Design"
+        level: "Familiar"
+        keywords: ["System Verilog", "Vivado HLS / FPGA", "CUDA", "SolidWorks"]
+
+      - name: "Documentation & Media"
+        level: "Experienced"
+        keywords: ["LaTeX", "MS Office", "Photoshop", "Final Cut Pro"]
+      - name: "Documentation & Media"
+        level: "Familiar"
+        keywords: ["WordPress"]
+
+    Languages:
+      - name: "Greek"
+        summary: "Native"
+        level: 100
+      - name: "English"
+        summary: "Certificate of Proficiency in English (C2), University of Michigan"
+        level: 95
+      - name: "German"
+        summary: "Certificate B2, National Foreign Language Exam System (KPG)"
+        level: 65
