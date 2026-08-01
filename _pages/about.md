@@ -30,7 +30,7 @@ latest_posts:
 
 I am a post-doc researcher at the Department of Electrical & Computer Engineering, Democritus University of Thrace (D.U.Th.), and at NCSR "Demokritos". As part of NCSRD's team, I currently work on the [NOUS project](https://nous-project.eu), designing middleware for HPC–QC interfacing and researching quantum machine learning (QML) and its applications.
 
-My recent research interests center on machine learning (ML) and quantum machine learning (QML), with a particular focus on applications in agrifood — an area where I also explore electronics and embedded systems. I continue to work on nanoelectronic circuits and systems as well, focusing on the modeling and simulation of graphene nanoribbon-based devices, and on their use in logic and memory applications.
+My recent research interests center on machine learning (ML) and quantum machine learning (QML), with a particular focus on applications in agrifood; an area where I also explore electronics and embedded systems. I continue to work on nanoelectronic circuits and systems as well, focusing on the modeling and simulation of graphene nanoribbon-based devices, and on their use in logic and memory applications.
 
 I hold a Ph.D. in Electrical & Computer Engineering, carried out jointly by the Electrical & Computer Engineering Department of D.U.Th. and the Electronics Engineering Department of the Polytechnic University of Catalonia (Barcelona), under the co-supervision of Prof. Georgios Sirakoulis and Prof. Antonio Rubio, on novel nanoelectronic circuits and systems using graphene.
 
