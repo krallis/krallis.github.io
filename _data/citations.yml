@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-07-31'
+  last_updated: '2026-08-14'
 papers:
   p4gOFhUAAAAJ:0EnyYjriUFMC:
     citations: 6
@@ -22,7 +22,7 @@ papers:
     title: Lightweight CNN Architectures for Edge-Based Post-Harvest Quality Control in Organic Tomatoes
     year: '2025'
   p4gOFhUAAAAJ:9yKSN-GCB0IC:
-    citations: 33
+    citations: 32
     title: Electronic properties of graphene nanoribbons with defects
     year: '2021'
   p4gOFhUAAAAJ:IjCSPb-OGe4C:
@@ -78,12 +78,12 @@ papers:
     title: A comprehensive strategy for tomato cultivation utilizing precision agriculture techniques
     year: '2024'
   p4gOFhUAAAAJ:_FxGoFyzp5QC:
-    citations: 14
+    citations: 15
     title: A reprogrammable graphene nanoribbon-based logic gate
     year: '2023'
   p4gOFhUAAAAJ:_kc_bZDykSQC:
-    citations: 14
-    title: 'Interfacing quantum computing systems with high-performance computing systems: an overview'
+    citations: 13
+    title: 'Interfacing quantum computing systems with high-performance computing systems: An overview'
     year: '2025'
   p4gOFhUAAAAJ:aqlVkmm33-oC:
     citations: 0
@@ -99,7 +99,7 @@ papers:
     year: '2023'
   p4gOFhUAAAAJ:hqOjcs7Dif8C:
     citations: 1
-    title: Quaternary MIN logic gate with ballistic graphene devices
+    title: Quaternary min logic gate with ballistic graphene devices
     year: '2024'
   p4gOFhUAAAAJ:kNdYIx-mwKoC:
     citations: 3
@@ -118,7 +118,7 @@ papers:
     title: Effect of lattice defects on the transport properties of graphene nanoribbon
     year: '2019'
   p4gOFhUAAAAJ:u5HHmVD_uO8C:
-    citations: 10
+    citations: 11
     title: Conductance parametric analysis of graphene nanoribbons with magnetic contacts
     year: '2020'
   p4gOFhUAAAAJ:ufrVoPGSRksC:
